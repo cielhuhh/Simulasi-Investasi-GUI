@@ -1,0 +1,22 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\bryan\OneDrive\Documents\Simulasi Investasi Crypto dan Saham Edukatif\SimulasiInvestasi\SimulasiInvestasi.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\bryan\OneDrive\Documents\Simulasi Investasi Crypto dan Saham Edukatif\SimulasiInvestasi\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.011.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-23
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\src\flutter\bin;C:\Program Files\Java\jdk-23\bin;C:\Users\bryan\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Users\bryan\AppData\Local\Android\Sdk\platform-tools;C:\Users\bryan\AppData\Local\Android\Sdk\emulator;C:\Users\bryan\AppData\Local\Android\Sdk\build-tools;C:\Users\bryan\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Program Files\Java\jdk-23\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Users\bryan\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\bryan\AppData\Local\Programs\Python\Python313\;C:\Users\bryan\AppData\Local\Microsoft\WindowsApps;C:\Users\bryan\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\bryan\.lmstudio\bin;C:\Program Files\Java\jdk-23\bin
+JRE paths:	C:\Program Files\Java\jdk-23;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\src\flutter\bin;C:\Program Files\Java\jdk-23\bin;C:\Users\bryan\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Users\bryan\AppData\Local\Android\Sdk\platform-tools;C:\Users\bryan\AppData\Local\Android\Sdk\emulator;C:\Users\bryan\AppData\Local\Android\Sdk\build-tools;C:\Users\bryan\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Program Files\Java\jdk-23\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Users\bryan\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\bryan\AppData\Local\Programs\Python\Python313\;C:\Users\bryan\AppData\Local\Microsoft\WindowsApps;C:\Users\bryan\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\bryan\.lmstudio\bin;C:\Program Files\Java\jdk-23\bin
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Version string: 1.023.000_002 / 64-Bit (OK)
+Main class:	Main
+Add classpath:	lib\mysql-connector-j-9.3.0.jar
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-classpath "SimulasiInvestasi.jar;lib\mysql-connector-j-9.3.0.jar" Main
+Args length:	71/32768 chars
+Exit code:	0
