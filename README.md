@@ -31,16 +31,29 @@ Aplikasi desktop berbasis Java untuk mensimulasikan transaksi investasi dalam be
 ## 🖼️ Tampilan Antarmuka
 
 - Login Form
+
+
   ![image](https://github.com/user-attachments/assets/07e6d777-ce7d-4eae-9579-3429a6ef656c)
 
+
 - Dashboard
+
+  
   ![image](https://github.com/user-attachments/assets/a6debbda-4ce0-4049-8de7-c5f81979866a)
 
+
 - Form Transaksi
+
+  
   ![image](https://github.com/user-attachments/assets/5acaf502-5e63-4a70-8091-89b4f96bde04)
+  
 
 - Lihat Portofolio
+
+  
   ![image](https://github.com/user-attachments/assets/9b2e93fd-2783-4938-a027-ab3f65802f9a)
+
+  
 
 - Generate Laporan
   ![image](https://github.com/user-attachments/assets/8b16337b-49f0-4458-bfbf-6442b8782850)
